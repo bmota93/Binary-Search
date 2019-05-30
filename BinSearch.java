@@ -6,7 +6,7 @@
  *  
  * Description: 
  * 		This program will search for a given
- * 		integer from a text file. * 
+ * 		integer from a text file. 
  * 
  * </pre>
  */
